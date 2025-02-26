@@ -2,10 +2,13 @@
 
 A system tray application that monitors and displays your AI provider balances.
 
+![Token-Tongs Screenshot](Token-Tongs.png)
 
 ## Description
 
 TokenTongs is a lightweight system tray application that helps you monitor your AI service provider credits and usage. It sits quietly in your system tray/menu bar and displays your current balance, updating periodically to keep you informed about your AI credit usage.
+
+**Note: TokenTongs is currently only available for macOS.**
 
 Currently supported providers:
 - OpenRouter
